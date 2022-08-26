@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -47,7 +47,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("Final Modification");
             l.Add("CTS CDX0102 Data Added");
             l.Add("Eren");
-            l.Remove("Eren");
+            l.Add("Mikasa");
             return l;
         }
     }
