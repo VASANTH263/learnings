@@ -48,7 +48,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("CTS CDX0102 Data Added");
             l.Add("Eren");
             l.Add("Mikasa");
-            l.Remove("Eren");
+            
             return l;
         }
     }
